@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100%;
+}
+
+.part1 {
+    width: 100%;
+    display: flex;
+    
+    
+    
+    
+
+}
+
+
+.container {}
+
+.aboutme {}
+
+.part1__background {
+    padding: 2rem;
+    width: 70%;
+}
+
+.aboutme__text1 {
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
+
+.aboutme__text2 {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+.aboutme__text3 {
+    font-size: 1rem;
+    padding-bottom: 2rem;
+}
+
+.aboutme__text4 {
+    font-size: 1rem;
+    padding-bottom: 2rem;
+}
+
+.aboutme__links {}
+
+.aboutme__facebooklink {
+    height: 2rem;
+}
+
+.aboutme__twiterlink {
+    height: 2rem;
+}
+
+.aboutme__facefoto {
+    
+}
+
+
+.aboutme__mainfoto {
+    width: 100%;
+    height: auto;
+    border: none;
+    margin: 0;
+    padding: 0;
+    flex: 0;
+}
+
+img {
+    height: 125px;
+    border: 1px solid #ddd;
+    border-radius: 0,25rem;
+    padding: 0.313rem;
+
+}
+
+.fotopanel {
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding-right: 2rem;
+    
+    margin: 0;
+
+}
+
+.fotopanel__size {
+    display: flex;
+    align-content: center;
+    margin: 2rem;
+    max-width: 100%;
+    justify-content: space-evenly;
+
+}
